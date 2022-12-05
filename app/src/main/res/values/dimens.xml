@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_size">16dp</dimen>
+    <dimen name="bottom_size">24dp</dimen>
+    <dimen name="item_size">14dp</dimen>
+</resources>
